@@ -15,3 +15,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 Lesson Plans
 [HTML/CSS](https://docs.google.com/a/flatironschool.com/document/d/1S1_IrnxaMq82v8ze3ixxSRuByB3EnKaj6ZvH6OT_IaQ/edit)
 [Group Project](https://docs.google.com/a/flatironschool.com/document/d/16INiSdyUbd2zRx_fGZQOX7hs5zR6O12WU9gCr-hpj0g/edit)
+
+<a href='https://learn.co/lessons/hs-intro-software-day7-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
