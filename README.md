@@ -16,4 +16,4 @@ Lesson Plans
 [HTML/CSS](https://docs.google.com/a/flatironschool.com/document/d/1S1_IrnxaMq82v8ze3ixxSRuByB3EnKaj6ZvH6OT_IaQ/edit)
 [Group Project](https://docs.google.com/a/flatironschool.com/document/d/16INiSdyUbd2zRx_fGZQOX7hs5zR6O12WU9gCr-hpj0g/edit)
 
-<a href='https://learn.co/lessons/hs-intro-software-day7-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-software-day7-schedule' title='Schedule'>Schedule</a> on Learn.co and start learning to code for free.</p>
